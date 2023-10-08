@@ -17,14 +17,15 @@ while the officers can manage the complaints of all users who have submitted the
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Crime Reporting System is in PHP with source code is free to download, Use for educational purposes only!
 After Starting Apache and MySQL in XAMPP, follow the following steps.
 
-1st Step: Extract file
-2nd Step: Copy the main project folder
-3rd Step: Paste in xampp/htdocs/
-4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
-5th Step: Then, click on the databases tab
-6th Step: Create a database naming “crime_portal” and then click on the import tab
-7th Step: Click on browse file and select “crime_portal.sql” file which is inside the “Crime-Reporting-System” folder
-8th Step: Click on go.
+# Steps:
+1. Extract file
+2. Copy the main project folder
+3. Paste in xampp/htdocs/
+4. Open a browser and go to URL “http://localhost/phpmyadmin/”
+5. Then, click on the databases tab
+6. Create a database naming “crime_portal” and then click on the import tab
+7. Click on browse file and select “crime_portal.sql” file which is inside the “Crime-Reporting-System” folder
+8. Click on go.
 
 After Creating Database,
-9th Step: Open a browser and go to URL “http://localhost Crime-Reporting-System /”
+9. Open a browser and go to URL “http://localhost Crime-Reporting-System /”
